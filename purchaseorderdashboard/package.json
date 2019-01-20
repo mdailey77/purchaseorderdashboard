@@ -1,7 +1,7 @@
 {
   "name": "order-dashboard",
   "version": "1.0.0",
-  "description": "KinderCare order dashboard",
+  "description": "purchaseorderdashboard",
   "main": "index.js",
   "directories": {
     "test": "tests"
