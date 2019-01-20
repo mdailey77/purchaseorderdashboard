@@ -1,0 +1,54 @@
+/*Magnific Popup Modal */
+#magnific-order-popup {
+    margin: auto;
+    background: #fff;
+    width: 70%;
+    position: relative;
+    padding: 15px;
+}
+#magnific-order-popup .mfp-close {
+    color: #000;
+    margin-top: 3px;
+}
+#dashboard {
+    max-width: 1140px;
+    width: 100%;
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 4rem;
+} 
+.loading-icon:before {
+    content: "\f110";
+    font-family: "Font Awesome 5 Free";
+    font-size:20px;
+    position: absolute;
+    top: 0;
+}
+.error {
+    border: 2px solid red;
+}
+.error-message {
+    color: red;
+}
+.errordate {
+    display:none;
+}
+#registerForm{
+    width: 50%;
+}
+.btn-primary {
+    background-color: #f47c29;
+    border: 1px solid #f47c29;
+}
+.btn-primary:hover {
+    background-color: #df620b;
+    border: 1px solid #f47c29;
+}
+a {
+    color: #f47c29;
+}
+a:hover {
+    color: #df620b;
+}
